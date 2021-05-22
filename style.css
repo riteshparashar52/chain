@@ -94,7 +94,7 @@ p{
   }
 
 #head1{
-    margin-top:15px;
+    margin-top:25px;
     margin-left: 15%;
    
 }
@@ -109,7 +109,7 @@ p{
 }
 #n2{
     margin-left:5%;
-    font-size: :calc((2.7vw+2.7vh)/2);
+    font-size: :calc((2.2vw+2.2vh)/2);
     color:white;
     margin-right:1.5%;
     text-decoration: none;
@@ -119,7 +119,7 @@ p{
 #n3 {
     
     color:white;
-    font-size: calc((2.7vw+2.7vh)/2);
+    font-size: calc((2.2vw+2.2vh)/2);
     text-decoration: none;
     margin-right:0.5%;
     padding: 1 1%;

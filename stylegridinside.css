@@ -1,7 +1,7 @@
 #head2{
     font-family: Arial, Helvetica, sans-serif;
     font-weight: bold;
-    font-size: 5vw;
+    font-size: calc((5vw+5vh)/2);
     text-decoration: none;
     color:black;
 }
@@ -21,11 +21,11 @@
     margin-bottom: 0px;
 }
 #p3{
-    font-size: 0.6em;
+    font-size: calc((1.8vw+1.8vh)/2);
     light-height:10px;
-    margin-top: 14%;
+     margin-top: 5%;
     margin-left: 1%;
-    margin-right: 13%;
+    margin-right: 11%;
     
 }
 .dot {
@@ -49,29 +49,29 @@ margin-left:10%;
   }
 #banner2{
     display: flex;
-    font-size: 1vw;
+    font-size: calc((1vw+1vh)/2);
     margin-left:10%;
     
     
   }
   #nn2{
     font-size: 3em;
-    margin-top: 4%;
-    margin-left: 2%;
+    margin-top: 2%;
+    margin-left: 3%;
     margin-right: 25%;
     color: rgb(79, 0, 182);
   }
   #nn3{
     font-size: 3em;
-    margin-top: 4%;
+    margin-top: 2%;
     margin-left: 4%;
     margin-right: 23%;
     color: rgb(79, 0, 182);
   }
   #nn4{
     font-size: 3em;
-    margin-top: 4%;
-    margin-left: 0%;
+    margin-top: 2%;
+    margin-left: 1%;
     margin-right: 25%;
     color: rgb(79, 0, 182);
     

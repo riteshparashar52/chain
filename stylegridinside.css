@@ -43,12 +43,13 @@
   }
 #banner1{
 display: flex;
+    font-size: 0.vw;
 margin-left:10%;
 
   }
 #banner2{
     display: flex;
-    font-size: 0.8vw;
+    font-size: 0.vw;
     margin-left:10%;
     
     

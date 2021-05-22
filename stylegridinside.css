@@ -55,21 +55,21 @@ margin-left:10%;
     
   }
   #nn2{
-    font-size: 3em;
+    font-size: calc((1.5vw+1.5vh)/2);
     margin-top: 2%;
     margin-left: 3%;
     margin-right: 25%;
     color: rgb(79, 0, 182);
   }
   #nn3{
-    font-size: 3em;
+    font-size: calc((1.5vw+1.5vh)/2);
     margin-top: 2%;
     margin-left: 4%;
     margin-right: 23%;
     color: rgb(79, 0, 182);
   }
   #nn4{
-    font-size: 3em;
+    font-size: calc((1.5vw+1.5vh)/2);
     margin-top: 2%;
     margin-left: 1%;
     margin-right: 25%;

@@ -1,0 +1,76 @@
+#head2{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 2rem;
+    text-decoration: none;
+    color:black;
+}
+#p1{
+    float:right;
+    margin:6%;
+    padding:2%;
+    background:white;
+    border-radius:10px;
+}
+#p2{
+    margin-left:10%;
+    margin-top:10%;
+    padding:0px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: lighter;
+    margin-bottom: 0px;
+}
+#p3{
+    font-size: 0.6em;
+    margin-top: 14%;
+    margin-left: 1%;
+    margin-right: 13%;
+    
+}
+.dot {
+    margin:15 10%;
+    height: 10.5%;
+
+    width: 10%;
+    background-color: #835b2b;
+    border-radius: 50%;
+    display: inline-block;
+  }
+  #no1{
+      color:rgb(79, 0, 182);
+      margin-left:10%;
+  }
+#banner1{
+display: flex;
+margin-left:10%;
+
+  }
+#banner2{
+    display: flex;
+    font-size: 0.4em;
+    margin-left:10%;
+    
+    
+  }
+  #nn2{
+    font-size: 3em;
+    margin-top: 4%;
+    margin-left: 2%;
+    margin-right: 25%;
+    color: rgb(79, 0, 182);
+  }
+  #nn3{
+    font-size: 3em;
+    margin-top: 4%;
+    margin-left: 4%;
+    margin-right: 23%;
+    color: rgb(79, 0, 182);
+  }
+  #nn4{
+    font-size: 3em;
+    margin-top: 4%;
+    margin-left: 0%;
+    margin-right: 25%;
+    color: rgb(79, 0, 182);
+    
+  }

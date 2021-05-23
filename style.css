@@ -108,7 +108,7 @@ p{
     padding: 0.5%;
 }
 #n2{
-    margin-left:14%;
+    margin-left:10%;
     font-size: :calc((1vw+1vh)/2);
     color:white;
     margin-right:1.5%;
@@ -141,7 +141,7 @@ h2{
 #image2{
     float: right;
     width:10%;
-    margin-top: 6%;
+    margin-top: 5vmax;
 }
 
 
